@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFBbI8R4ENg=",
+  "success": true,
+  "projectFilePath": "/home/hdodson/projects/csharp/learn_modbus/setup_1/setup_1.csproj",
+  "expectedPackageFiles": [
+    "/home/hdodson/.nuget/packages/nmodbus/3.0.81/nmodbus.3.0.81.nupkg.sha512"
+  ],
+  "logs": []
+}
