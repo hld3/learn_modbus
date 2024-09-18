@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hdodson/projects/csharp/learn_modbus/setup_1/setup_1.csproj": {}
+    "/home/hdodson/projects/csharp/learn_modbus/setup_1.csproj": {}
   },
   "projects": {
-    "/home/hdodson/projects/csharp/learn_modbus/setup_1/setup_1.csproj": {
+    "/home/hdodson/projects/csharp/learn_modbus/setup_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hdodson/projects/csharp/learn_modbus/setup_1/setup_1.csproj",
+        "projectUniqueName": "/home/hdodson/projects/csharp/learn_modbus/setup_1.csproj",
         "projectName": "setup_1",
-        "projectPath": "/home/hdodson/projects/csharp/learn_modbus/setup_1/setup_1.csproj",
+        "projectPath": "/home/hdodson/projects/csharp/learn_modbus/setup_1.csproj",
         "packagesPath": "/home/hdodson/.nuget/packages/",
-        "outputPath": "/home/hdodson/projects/csharp/learn_modbus/setup_1/obj/",
+        "outputPath": "/home/hdodson/projects/csharp/learn_modbus/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hdodson/.nuget/NuGet/NuGet.Config"
